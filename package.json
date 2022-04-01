@@ -1,0 +1,36 @@
+{
+  "name": "@stdlib/constants-float64-two-pi",
+  "version": "0.0.0",
+  "description": "2π.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-float64-two-pi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "mathematics",
+    "math",
+    "pi",
+    "2pi",
+    "ieee754",
+    "double",
+    "dbl",
+    "precision",
+    "floating-point",
+    "float64"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
